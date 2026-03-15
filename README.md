@@ -1,4 +1,4 @@
-# Engenharia-da-Computa-o-UFPE---experi-ncia
+# Engenharia-da-Computação-UFPE-->experiência
 
 Utilizarei esse repositório para descrever minhas experiências durante o curso
 
