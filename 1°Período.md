@@ -1,28 +1,29 @@
-# 1° Período
+# 📘 1º Período: Fundamentos e Primeiros Códigos
 
-Matérias e desempenho:
+Abaixo estão as principais disciplinas cursadas, os projetos desenvolvidos e as habilidades adquiridas no meu primeiro semestre de Engenharia da Computação.
 
-- Introdução a Computação:
-    - Aprendi a programar com Arduino
-    - Tive meu primeiro contato com um projeto em C++ voltado para Arduino
-    - Tive um desempenho satisfatório e apresentei boas habilidades de trabalho em equipe
-    - Projeto: https://github.com/lecaio08/projeto_ic
+### 📚 Matérias e Desempenho
 
-- Introdução a Programação:
-    - Fui introduzido a linguagem Python
-    - Ao final do curso, fiz meu primeiro projeto em pygame
-    - Desenvolvi habilidades fortes e controle total da linguagem Python
-    - Melhorei minha capacidade de comunicação através do trabalho em equipe
-    - Projeto: https://github.com/lecaio08/projeto_ip
- 
-- Cálculo 1:
-    - Aprimorei meu raciocínio lógico e rapidez na resolução de questões matemáticas mais complexas
-    - Aprendi conceitos matemáticos mais avançados
- 
-- Geometria Analítica:
-    - Fui estimulado a buscar temas mais especíicos sobre a matemática
-    - Também aprimorei meu raciocínio lógico e rapidez na resolução de problemas
+* **Introdução à Computação:**
+    * Primeiro contato prático com integração de hardware e software usando **Arduino** e **C++**.
+    * Desenvolvimento de fortes habilidades de trabalho em equipe e colaboração em projetos técnicos.
+    * 🔗 [Acesse o Projeto aqui](https://github.com/lecaio08/projeto_ic)
 
-Projeto pessoal:
+* **Introdução à Programação:**
+    * Imersão na linguagem **Python**, construindo uma base sólida de lógica e aplicação prática.
+    * Desenvolvimento do meu primeiro projeto de jogo utilizando a biblioteca **Pygame**.
+    * Aprimoramento da comunicação e divisão de tarefas trabalhando em equipe.
+    * 🔗 [Acesse o Projeto aqui](https://github.com/lecaio08/projeto_ip)
 
-- Participei do processo seletivo da Maratona, programação competitiva, com isso, fui introduzido a linguagem C/C++, a qual aprendi em 1/2 semanas antes do primeiro Contest.
+* **Cálculo 1:**
+    * Aprimoramento do raciocínio lógico e da capacidade de abstração matemática.
+    * Desenvolvimento de agilidade na resolução de problemas quantitativos complexos.
+
+* **Geometria Analítica:**
+    * Aprofundamento em conceitos espaciais e vetoriais fundamentais para áreas da computação (como desenvolvimento de jogos e algoritmos).
+    * Estímulo para buscar tópicos matemáticos específicos e aplicar na resolução de desafios lógicos.
+
+### 🚀 Projetos Pessoais e Extracurriculares
+
+* **Processo Seletivo da Maratona de Programação:**
+    * **Aprendizado Acelerado:** Estudei e apliquei os fundamentos de **C/C++** em apenas duas semanas para participar do meu primeiro *Contest*. Essa vivência desenvolveu fortemente minha capacidade de aprender novas tecnologias rapidamente e resolver problemas algorítmicos sob pressão.
